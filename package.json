@@ -1,5 +1,5 @@
 {
-  "name": "anime.db",
+  "name": "anichu.db",
   "version": "1.0.0",
   "description": "A DB of almost all anime with their information.",
   "main": "index.js",
@@ -16,6 +16,6 @@
     "homepage": "https://nanotech-wiki.vercel.app/package/aoijikan",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NanotechPikachu/anime.git"
+    "url": "git+https://github.com/NanotechPikachu/anichu.db.git"
   },
 }
