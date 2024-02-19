@@ -38,7 +38,6 @@ console.log(searchAnime("Solo leveling"));
 <hr /><br />
 <h4>Note:</h4>
 
-
 > The animes in the DB are taken from <b>MAL</b> and there are around <b>26k</b> anime in the JSON. Still, some anime maybe missing. If you encounter any such anime, please open an issue or DM me @nanotechpikachu in discord.
 <br />
 
