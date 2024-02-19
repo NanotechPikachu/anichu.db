@@ -1,0 +1,21 @@
+{
+  "name": "anime.db",
+  "version": "1.0.0",
+  "description": "A DB of almost all anime with their information.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["anidb", "anime.db"],
+  "author": "NanotechPikachu",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "node-fetch": "^3.2.6"
+  },
+    "homepage": "https://nanotech-wiki.vercel.app/package/aoijikan",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NanotechPikachu/anime.git"
+  },
+}
