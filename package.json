@@ -1,21 +1,24 @@
 {
   "name": "anichu.db",
   "version": "1.0.0",
-  "description": "A DB of almost all anime with their information.",
+  "description": "AniChu.DB - An offline Database for anime fans!",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Hi\" to all"
   },
-  "keywords": ["anidb", "anime.db"],
-  "author": "NanotechPikachu",
-  "license": "MIT",
-  "dependencies": {
-    "@types/node": "^18.0.6",
-    "node-fetch": "^3.2.6"
-  },
-    "homepage": "https://nanotech-wiki.vercel.app/package/aoijikan",
+  "homepage": "https://nanotech-wiki.vercel.app/package/anichu",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NanotechPikachu/anichu.db.git"
   },
+  "keywords": [
+    "anichu",
+    "anime",
+    "anichu.db",
+    "jikan",
+    "mal",
+    "manga"
+  ],
+  "author": "NanotechPikachu",
+  "license": "MIT"
 }
