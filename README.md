@@ -27,7 +27,7 @@ console.log(getAnime("Sword art online"));
 console.log(searchAnime("Solo leveling"));
 ```
 
-> Refer [DOCS]() to get the exact parameter and usage of functions as well as additional information.
+> Refer [DOCS](https://nanotech-wiki.vercel.app/package/anichudb) to get the exact parameter and usage of functions as well as additional information.
 
 <hr />
 
