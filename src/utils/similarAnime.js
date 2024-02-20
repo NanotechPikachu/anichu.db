@@ -7,7 +7,7 @@ function similarAnime(anime, db, ratio = 0.4) {
     const anidb = readJSON(db);
   
     for (let entry of anidb) {   
-      if (isSimilar(entry.title?.toLowerCase(), anime) > ratio) {
+      if (isSimilar(entry.title?.toLowerCase(), anime) >= ratio) {
         results.push(entry);
       }
     }
