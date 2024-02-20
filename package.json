@@ -3,7 +3,7 @@
     "compress-json": "^3.0.0"
   },
   "name": "anichu.db",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "AniChu.DB - An offline Database for anime fans!",
   "main": "index.js",
   "scripts": {
